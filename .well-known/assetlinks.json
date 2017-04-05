@@ -1,9 +1,9 @@
 [{
-  relation: [delegate_permission/common.handle_all_urls],
-  target: {
-    namespace: android_app,
-    package_name: co.gigfm.staging.debug,
-    sha256_cert_fingerprints:
-    [FC:00:D1:C5:7A:FA:28:A1:65:9F:D3:EB:66:C6:C5:39:A8:6D:73:11:BA:D3:C7:A1:52:7C:32:54:F7:6D:4C:7B]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.gigfm.staging.debug",
+    "sha256_cert_fingerprints":
+    ["FC:00:D1:C5:7A:FA:28:A1:65:9F:D3:EB:66:C6:C5:39:A8:6D:73:11:BA:D3:C7:A1:52:7C:32:54:F7:6D:4C:7B"]
   }
 }]
